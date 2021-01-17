@@ -1,0 +1,25 @@
+{
+  "name": "C7_task",
+  "version": "1.0.0",
+  "description": "jest_test",
+  "main": "task.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StalingradTeam/C7_task.git"
+  },
+  "author": "StalingradTeam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StalingradTeam/C7_task/issues"
+  },
+  "homepage": "https://github.com/StalingradTeam/C7_task#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.6.1",
+    "jest": "^26.6.1"
+  }
+}
